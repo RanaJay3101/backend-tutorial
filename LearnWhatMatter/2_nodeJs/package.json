@@ -1,0 +1,14 @@
+{
+  "name": "2_nodejs",
+  "version": "1.0.0",
+  "description": "tutorial of Node Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "chala": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rana Jay",
+  "license": "ISC"
+}
